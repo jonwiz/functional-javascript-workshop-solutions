@@ -1,2 +1,4 @@
 # Functional Javascript Workshop - Solutions
-nodeschool.io
+npm install -g functional-javascript-workshop
+
+From website: www.nodeschool.io
