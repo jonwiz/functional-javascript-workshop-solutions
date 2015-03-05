@@ -7,5 +7,4 @@ module.exports = function reduce(arr, fn, initial) {
 		return recur(index + 1, fn(value, arr[index], index, arr));
 
 	})(0, initial);
-
 };
